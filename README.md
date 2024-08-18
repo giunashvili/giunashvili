@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=giunashvili&theme=vue&show_icons=true&hide_border=true&count_private=true" alt="George's GitHub Stats" />
+
 <!--
 **giunashvili/giunashvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
